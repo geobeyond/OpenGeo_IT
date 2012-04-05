@@ -34,8 +34,13 @@ Icon?
 Thumbs.db
 
 # Sphinx generated files and directory #
-###################################
+########################################
 _templates
 _static
 _build
+_themes
 
+# Local Mercurial repository #
+##############################
+.hg
+docs

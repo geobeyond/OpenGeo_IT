@@ -12,9 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
-
-
+   suite pricing
 
 Indices and tables
 ==================

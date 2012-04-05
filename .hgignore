@@ -1,0 +1,4 @@
+syntax: glob
+docs/
+.git
+.gitignore
