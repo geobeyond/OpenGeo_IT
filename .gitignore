@@ -42,5 +42,10 @@ _themes
 
 # Local Mercurial repository #
 ##############################
+.hgignore
 .hg
 docs
+
+# Local Git repository #
+########################
+.gitignore
