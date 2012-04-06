@@ -9,8 +9,8 @@ Collaterals outline
 .. toctree::
    :maxdepth: 1
 
-   	suite info
-   	suite pricing
+   suite info
+   suite pricing
 
 Indices and tables
 ==================

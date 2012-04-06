@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to OpenGeo_IT's documentation!
-======================================
+Welcome to OpenGeo_IT's Translation!
+====================================
 
 Contents:
 
@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   	collaterals/index
+   collaterals/index
 
 Indices and tables
 ==================
