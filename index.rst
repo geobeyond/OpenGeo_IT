@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   	Collaterals/index
+   	collaterals/index
 
 Indices and tables
 ==================
