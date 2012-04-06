@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   suite pricing
+   	Collaterals/index
 
 Indices and tables
 ==================
